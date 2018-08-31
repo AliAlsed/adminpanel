@@ -1,0 +1,6 @@
+{
+  "appId": "com.bridge.admin",
+  "appName": "AdminPanel",
+  "bundledWebRuntime": false,
+  "webDir": "src"
+}
